@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<style>
+
+.chart{
+  font: 10px sans-serif;
+  background-color: steelblue;
+  text-align: right;
+  padding: 3px;
+  margin: 1px;
+  color: white;
+}
+
+.text{
+  font: 16px sans-serif;
+  background-color: white;
+  text-align: left;
+  padding: 3px;
+  margin: 1px;
+  color: red;
+}
+
+</style>
+<h1> Customer Survey - Dashboard </h1>
+<div>
+  <div> <span class="text" style="width: 100px; display:inline-block;">FiOS TV </span> <span  class="chart" style="width: 160px; display:inline-block;">Excellent</span></div>
+  <div> <span class="text" style="width: 100px; display:inline-block;">Internet </span> <span  class="chart" style="width: 120px; display:inline-block;">3</span></div>
+  <div> <span class="text" style="width: 100px; display:inline-block;">FDV </span> <span  class="chart" style="width: 140px; display:inline-block;">3.5</span></div>
+</div>
